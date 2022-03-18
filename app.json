@@ -15,7 +15,7 @@
 
     "Vless_Path": {
       "description": "Path路径，默认/s233,为了安全你也可以使用uuid替换s233，/不能少。如果开启反代，不要与反代网站存在的uri相同",
-      "value": "/f44905fd-749b-409c-ab5d-bee96f97f11e"
+      "value": "/d3cdaa38-830f-4422-82a2-5283c7e248ba"
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
